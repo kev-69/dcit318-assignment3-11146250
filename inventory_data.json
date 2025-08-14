@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "Laptop Computer",
+    "Quantity": 25,
+    "DateAdded": "2025-08-04T19:18:16.2411042+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Wireless Mouse",
+    "Quantity": 150,
+    "DateAdded": "2025-08-09T19:18:16.2411644+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "USB Drive 32GB",
+    "Quantity": 75,
+    "DateAdded": "2025-08-11T19:18:16.241166+00:00"
+  },
+  {
+    "Id": 4,
+    "Name": "Monitor 24-inch",
+    "Quantity": 40,
+    "DateAdded": "2025-08-13T19:18:16.2411661+00:00"
+  },
+  {
+    "Id": 5,
+    "Name": "Mechanical Keyboard",
+    "Quantity": 60,
+    "DateAdded": "2025-08-14T19:18:16.2411661+00:00"
+  }
+]
